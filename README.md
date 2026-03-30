@@ -12,12 +12,6 @@
       https://github.com/jaeseung9/ReadSync-backend
     </a>
   </li>
-  <li>
-    🔗 <b>API 명세서 / 노션 등 (선택)</b>:
-    <a href="#" target="_blank" rel="noreferrer">
-      https://seungcoding.tistory.com/ <img width="590" height="31" alt="image" src="https://github.com/user-attachments/assets/4779d5f8-f35c-423e-8689-b736fc70bf38" />
-    </a>
-  </li>
 </ul>
 
 <h3>✅ 주요 개발 내용</h3>
